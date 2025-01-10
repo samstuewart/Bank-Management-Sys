@@ -1,4 +1,5 @@
-#Bank-Management-Sys
+Project Description:
+------------------------
 A predictive analysis project utilizing a Decision Tree Classifier to forecast customer subscription behavior for term deposits. The project demonstrates end-to-end data processing, visualization, and model evaluation using Python and libraries like pandas, seaborn, and scikit-learn.
 
 Key Features
