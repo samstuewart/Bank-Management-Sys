@@ -28,7 +28,9 @@ Split data into training (80%) and testing (20%) sets.
 
 Model Evaluation:
 Classification Report: Assessed precision, recall, F1-score, and support.
+
 Confusion Matrix: Analyzed model predictions.
+
 Accuracy Score: Measured overall model performance.
 
 Results
